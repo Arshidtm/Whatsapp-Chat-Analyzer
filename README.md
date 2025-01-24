@@ -41,8 +41,8 @@ The **WhatsApp Chat Analyzer** is a tool designed to perform **Exploratory Data 
 ---
 
 ## Example Output
-![Sample Graph](img1.png)  
-*(Replace this placeholder with a screenshot of your actual output)*
+![Sample Graph](https://github.com/Arshidtm/Whatsapp-Chat-Analyzer/blob/ec9a83eab01646d41c6ec622c4c0b3e9424300c2/img1)  
+
 
 ---
 
