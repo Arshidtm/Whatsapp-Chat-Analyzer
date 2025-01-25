@@ -3,5 +3,4 @@ streamlit
 matplotlib
 pandas
 wordcloud
-collections
 emoji
