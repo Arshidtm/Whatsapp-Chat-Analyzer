@@ -1,7 +1,6 @@
 urlextract
 streamlit
 matplotlib
-re
 pandas
 wordcloud
 collections
